@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Mohitkumar.jpg" width="100%" alt="Mohit Kumar Banner" />
+  <img src="mohit.png" width="100%" alt="Mohit Kumar Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
