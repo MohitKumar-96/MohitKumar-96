@@ -109,7 +109,7 @@ B.Tech Student | Aspiring Software Developer & Data Analyst
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mohit-kumar/" target="_blank">
+<a href="https://www.linkedin.com/in/mohit-kumar-31786a330/?isSelfProfile=true" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
 </a>
 
